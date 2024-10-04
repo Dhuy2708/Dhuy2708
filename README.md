@@ -29,6 +29,6 @@ GGEZ
 ## 🏆 My Stats:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelliax&theme=algolia" alt="harryz205" /></a> </p>
-<a href="https://github.com/harryz205"><img src="https://streak-stats.demolab.com?user=angelliax&theme=gotham" alt="Streak's Card" width="100%"></a>
+<a href="https://github.com/harryz205"><img src="https://streak-stats.demolab.com?user=Dhuy2708&theme=gotham" alt="Streak's Card" width="100%"></a>
 
 </div>
