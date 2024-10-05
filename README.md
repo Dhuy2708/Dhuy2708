@@ -8,13 +8,13 @@
 GGEZ
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=angelliax&theme=gotham&show_icons=true&count_private=true">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=angelliax&theme=gotham&show_icons=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dhuy2708&theme=gotham&show_icons=true&count_private=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Dhuy2708&theme=gotham&show_icons=true&count_private=true">
 </picture>
 
 -   ⚡ Interest: Watch movies and sleep!
 -   🏆 I'm striving to increase [GitHub stats rating](#🏆-my-stats) by contributing to open source.
--   📫 How to reach me: [tungtg.contact@gmail.com](mailto:tungtg.contact@gmail.com)
+-   📫 How to reach me: [vodinhhuy2708@gmail.com](mailto:vodinhhuy2708@gmail.com)
 
 ---
 
